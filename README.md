@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Python, FastAPI, Flask, HTML, MySQL, CSS, JS**
-- 📫 How to reach me **kunaladwani@gmail.com**
+- 📫 How to reach me **kunaladwani1456@gmail.com**
 
 <div> <a href="https://twitter.com/KunalAdwani11" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kunaladwani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
