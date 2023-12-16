@@ -2,7 +2,6 @@
 <h3 align="center">Developer!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-63&label=Profile%20views&color=0e75b6&style=flat" alt="Kunal-63" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kunal-63&theme=" alt="Kunal-63" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Python, FastAPI, Flask, HTML, MySQL, CSS, JS**
